@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0041-first-missing-positive) |
+| [2553-separate-the-digits-in-an-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3895-count-digit-appearances](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3903-smallest-stable-index-i) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3909-compare-sums-of-bitonic-parts) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2553-separate-the-digits-in-an-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3894-traffic-signal-color](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3894-traffic-signal-color) |
 ## Prefix Sum
 |  |
