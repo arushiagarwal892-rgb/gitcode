@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3894-traffic-signal-color](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3895-count-digit-appearances) |
+| [3908-valid-digit-number](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3908-valid-digit-number) |
 ## Sorting
 |  |
 | ------- |
