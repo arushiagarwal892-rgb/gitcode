@@ -55,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 <!---LeetCode Topics End-->
