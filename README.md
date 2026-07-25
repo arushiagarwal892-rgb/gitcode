@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3895-count-digit-appearances](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3903-smallest-stable-index-i) |
+| [3909-compare-sums-of-bitonic-parts](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## String
 |  |
 | ------- |
