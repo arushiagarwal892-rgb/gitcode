@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [3884-first-matching-character-from-both-ends](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3894-traffic-signal-color) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Simulation
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
+## Two Pointers
+|  |
+| ------- |
+| [3884-first-matching-character-from-both-ends](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3884-first-matching-character-from-both-ends) |
 <!---LeetCode Topics End-->
