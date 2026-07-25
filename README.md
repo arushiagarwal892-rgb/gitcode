@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3894-traffic-signal-color](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3894-traffic-signal-color) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Simulation
 |  |
 | ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3894-traffic-signal-color](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3894-traffic-signal-color) |
 ## Prefix Sum
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Counting
 |  |
