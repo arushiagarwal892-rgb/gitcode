@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3909-compare-sums-of-bitonic-parts](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3912-valid-elements-in-an-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3912-valid-elements-in-an-array) |
 | [3917-count-indices-with-opposite-parity](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3917-count-indices-with-opposite-parity) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## String
 |  |
 | ------- |
@@ -36,9 +37,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3903-smallest-stable-index-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+## Hash Table
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+## Enumeration
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 <!---LeetCode Topics End-->
