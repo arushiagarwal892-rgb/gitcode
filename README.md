@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0509-fibonacci-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0231-power-of-two) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Counting
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
