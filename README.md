@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0349-intersection-of-two-arrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0041-first-missing-positive) |
+| [0349-intersection-of-two-arrays](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0349-intersection-of-two-arrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3861-minimum-capacity-box](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3861-minimum-capacity-box) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0041-first-missing-positive) |
+| [0349-intersection-of-two-arrays](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0349-intersection-of-two-arrays) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sliding Window
 |  |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0349-intersection-of-two-arrays) |
 | [3884-first-matching-character-from-both-ends](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Dynamic Programming
 |  |
@@ -101,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
