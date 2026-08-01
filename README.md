@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
