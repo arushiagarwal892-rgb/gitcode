@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3894-traffic-signal-color](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3894-traffic-signal-color) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2553-separate-the-digits-in-an-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3894-traffic-signal-color](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3894-traffic-signal-color) |
 ## Prefix Sum
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0342-power-of-four) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Counting
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0509-fibonacci-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
