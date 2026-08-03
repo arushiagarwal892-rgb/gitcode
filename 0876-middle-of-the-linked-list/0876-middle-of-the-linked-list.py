@@ -5,16 +5,15 @@
 #         self.next = next
 class Solution(object):
     def middleNode(self, head):
+        # 2,067,718
+
         """
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        l=0
-        curr=head
-        while curr!=None:
-            curr=curr.next
-            l=l+1
-        curr=head
-        for i in range (0,l//2):
-            curr=curr.next
-        return curr
+        curr1=head
+        curr2=head
+        while curr2!=None and curr2.next!=None:
+            curr1=curr1.next
+            curr2=curr2.next.next
+        return curr1
