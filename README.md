@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0349-intersection-of-two-arrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0041-first-missing-positive) |
+| [0274-h-index](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0349-intersection-of-two-arrays) |
 | [0877-stone-game](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0876-middle-of-the-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
