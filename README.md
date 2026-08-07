@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3861-minimum-capacity-box](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3861-minimum-capacity-box) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1441-build-an-array-with-stack-operations](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3894-traffic-signal-color](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3894-traffic-signal-color) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
