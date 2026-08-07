@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0041-first-missing-positive) |
 | [0349-intersection-of-two-arrays](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sliding Window
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0645-set-mismatch) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
