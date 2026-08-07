@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0342-power-of-four) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0041-first-missing-positive) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0274-h-index](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -172,5 +174,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
