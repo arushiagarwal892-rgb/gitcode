@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3861-minimum-capacity-box](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3861-minimum-capacity-box) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3895-count-digit-appearances](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3895-count-digit-appearances) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sliding Window
 |  |
