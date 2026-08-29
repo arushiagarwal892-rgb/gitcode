@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3861-minimum-capacity-box](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3861-minimum-capacity-box) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3895-count-digit-appearances](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3895-count-digit-appearances) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sliding Window
 |  |
