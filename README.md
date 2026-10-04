@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2525-categorize-box-according-to-criteria](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3536-maximum-product-of-two-digits) |
