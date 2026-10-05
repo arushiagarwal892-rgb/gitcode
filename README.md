@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0041-first-missing-positive) |
+| [0136-single-number](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0274-h-index](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0349-intersection-of-two-arrays) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0645-set-mismatch) |
