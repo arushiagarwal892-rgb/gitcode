@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0390-elimination-game) |
+| [0445-add-two-numbers-ii](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0877-stone-game) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0876-middle-of-the-linked-list) |
 ## Counting Sort
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0445-add-two-numbers-ii](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0445-add-two-numbers-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Heap (Priority Queue)
 |  |
