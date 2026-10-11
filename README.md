@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3884-first-matching-character-from-both-ends](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Dynamic Programming
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Counting Sort
 |  |
 | ------- |
