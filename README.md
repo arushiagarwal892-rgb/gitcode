@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/arushiagarwal892-rgb/gitcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
